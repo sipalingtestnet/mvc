@@ -11,8 +11,8 @@ echo "================================"
 echo -e "\e[0m"
 echo -e '\e[33mNama Project =\e[55m' MVC
 echo -e '\e[33mKomunitas Kami =\e[55m' Sipaling Testnet
-echo -e '\e[33mTelegram Channel =\e[55m' https://t.me/ssipalingtestnet
-echo -e '\e[33mTelegram Group =\e[55m' https://t.me/diskusisipalingairdrop
+echo -e '\e[33mChannel Telegram =\e[55m' https://t.me/ssipalingtestnet
+echo -e '\e[33mGroup Telegram =\e[55m' https://t.me/diskusisipalingairdrop
 echo -e "\e[0m"
 
 sleep 3
