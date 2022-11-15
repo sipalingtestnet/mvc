@@ -1,7 +1,6 @@
 #!/bin/bash
 clear
 echo -e "\033[0;33m"
-
 echo " ███████ ██████  ████████     ";
 echo " ██      ██   ██    ██        ";
 echo " ███████ ██████     ██        ";
@@ -25,5 +24,4 @@ sudo apt update && sudo apt install screen && sudo apt-get install build-essenti
 echo -e "\e[1m\e[32m4. Wait Lagi Download  \e[0m" && sleep 1
 wget https://raw.githubusercontent.com/heshuchao/space-mining-guide/main/mvc.conf
 wget https://raw.githubusercontent.com/heshuchao/space-mining-guide/main/install-node.sh && chmod 777 ./install-node.sh
-
 echo 'Done'
